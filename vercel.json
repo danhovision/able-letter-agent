@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/letter.js": {
+      "runtime": "@vercel/node@3"
+    }
+  }
+}
